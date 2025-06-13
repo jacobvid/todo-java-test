@@ -52,7 +52,7 @@ mvn test
 
 ## Author
 **Jacob Vidergar**  
-vidergarjm@gmail.com
+jacobvid@umich.edu
 
 ## License
 This project is licensed under the MIT License.
