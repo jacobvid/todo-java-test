@@ -52,8 +52,8 @@ mvn test
 
 ## Author
 **Jacob Vidergar**  
-[vidergarjm@gmail.com]  
-[jacobvid]
+vidergarjm@gmail.com 
+jacobvid
 
 ## License
 This project is licensed under the MIT License.
